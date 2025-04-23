@@ -1,36 +1,53 @@
-# 👋 Olá! Eu sou o Paulo Santos
+<h1 align="center">👋 Olá! Eu sou o Paulo Santos</h1>
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Apaixonado por desenvolvimento web, tecnologia e soluções com impacto social  
-🐾 Criador de projetos como sistemas de **adoção de animais** e ferramentas de estudo como o [Calculadora de IMC](https://imcestudos.vercel.app)
-
----
-
-## 🚧 Em constante evolução
-
-Atualmente me dedicando a:
-
-- Desenvolvimento Front-end com **HTML, CSS e JavaScript**
-- Boas práticas de **UI/UX**
-- Versionamento com **Git e GitHub**
-- Projetos práticos que me ajudam a aprender fazendo
+<p align="center">
+  💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+  🚀 Focado em desenvolvimento web e soluções com impacto social<br>
+  🌱 Atualmente estudando JavaScript e boas práticas de UI/UX<br>
+</p>
 
 ---
 
-## 🛠️ Projetos em destaque
+## 🛠️ Tecnologias e Ferramentas
 
-- [🔗 Calculadora de IMC](https://imcestudos.vercel.app) – Uma ferramenta simples e responsiva para calcular o índice de massa corporal  
-- [🔧 Sistema de Adoção de Animais (em andamento)] – Projeto acadêmico com propósito social, focado em conectar animais a novos lares
-
----
-
-## 📫 Vamos nos conectar!
-
-Se quiser bater um papo sobre tecnologia, trocar ideias ou colaborar:
-
-- 📧 **paulosantos.dev.contato@gmail.com**
-- 💼 [LinkedIn – Em breve!]
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+</div>
 
 ---
 
-Obrigado por visitar meu perfil! 😄
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloSantos2002&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSantos2002&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+- [🔗 Calculadora de IMC](https://imcestudos.vercel.app) – Ferramenta simples e responsiva para calcular o índice de massa corporal  
+- 🐾 Sistema de Adoção de Animais (em andamento) – Projeto acadêmico com foco social
+
+---
+
+## 📈 Visitantes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PauloSantos2002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 📬 Contato
+
+- 📧 - **paulosantos050602@gmail.com**
+- 💼 - www.linkedin.com/in/paulo-santos-69585026b
+
+---
+
+<p align="center">Obrigado por visitar meu perfil! 😄</p>
