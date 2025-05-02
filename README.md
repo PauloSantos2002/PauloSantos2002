@@ -31,7 +31,6 @@
 ## 🚀 Projetos em destaque
 
 - [🔗 Calculadora de IMC](https://imcestudos.vercel.app) – Ferramenta simples e responsiva para calcular o índice de massa corporal  
-- 🐾 Sistema de Adoção de Animais (em andamento) – Projeto acadêmico com foco social
 
 ---
 
