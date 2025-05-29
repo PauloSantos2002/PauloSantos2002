@@ -32,7 +32,9 @@
 
 ## 🚀 Projetos em destaque
 
-- [🔗 Calculadora de IMC](https://imcestudos.vercel.app) – Ferramenta simples e responsiva para calcular o índice de massa corporal  
+- [🔗 Calculadora de IMC](https://imcestudos.vercel.app) – Ferramenta simples e responsiva para calcular o índice de massa corporal
+- [🔗 Faixa Etária](https://faixa-etaria.vercel.app/) – Ferramenta simples e responsiva para calcular faixa etária
+- [🔗 Calculo de Média](https://calculo-de-media-inky.vercel.app/) - Ferramenta simples e responsiva para calcular média
 
 ---
 
