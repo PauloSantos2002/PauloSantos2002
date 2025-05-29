@@ -11,20 +11,23 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=black)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
 </div>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloSantos2002&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSantos2002&layout=compact&theme=tokyonight" />
-</div>
+<picture><img src="https://github-readme-stats.vercel.app/api?username=PauloSantos2002&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width="53%" height="53%"/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSantos2002&langs_count=8&layout=compact&theme=radical&hide_border=true" width="40.5%" height="40.5%"/></picture>
+
+<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=eolkazin&theme=redical&hide_border=true" style="width: 890px;"/></picture>
 
 ---
 
