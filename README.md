@@ -1,9 +1,13 @@
 <h1 align="center">👋 Olá! Eu sou o Paulo Santos</h1>
 
-<p align="center">
+
+<p align="left">
   💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
   🚀 Focado em desenvolvimento web e soluções com impacto social<br>
   🌱 Atualmente estudando JavaScript e boas práticas de UI/UX<br>
+  📍 Belo Horizonte, Brasil. <br>
+  📚 Estudando **Analise e Desenvolvimento de Sistemas (ADS)**<br>
+  🌱 Front-end Developer**<br>
 </p>
 
 ---
